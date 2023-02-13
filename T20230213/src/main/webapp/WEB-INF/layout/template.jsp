@@ -28,15 +28,10 @@
 	<tiles:insertAttribute name="header">
 	</tiles:insertAttribute>
 
-	<tiles:insertAttribute name="main">
+	<tiles:insertAttribute name="body">
 	</tiles:insertAttribute>
 
 
-
-
-	</div>
-	</div>
-	</section>
 	<tiles:insertAttribute name="footer">
 	</tiles:insertAttribute>
 	<!-- Bootstrap core JS-->
